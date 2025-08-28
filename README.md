@@ -1,4 +1,4 @@
-Hi 👋 My name is Henrique
+Oi 👋 Meu Nome é Henrique
 =========================
 
 Estudante de TI no IFMS | Explorando o mundo da programação com projetos práticos
